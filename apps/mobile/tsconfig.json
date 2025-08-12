@@ -1,0 +1,6 @@
+{
+  "extends": "@todo/config/tsconfig.json",
+  "compilerOptions": {
+    "jsx": "react-jsx"
+  }
+}
